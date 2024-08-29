@@ -1,16 +1,79 @@
-### Hi there 👋
+# Hello, I'm Ellique!
+<a href="https://linkedin.com/in/ellique"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**3llique/3llique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT Professional with a Bachelor of Science in Information Technology!
+
+## Objective
+
+
+I'm seeking to leverage my hands-on experience with security tools and frameworks to contribute effectively to a Security Operations Center (SOC) or a GRC team, ensuring robust threat detection, incident response, and regulatory compliance.
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TheHive-FF6F00?&style=for-the-badge&logoColor=white" />
+
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-KAPE-800000?&style=for-the-badge&logoColor=white" />
+
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DeepBlueCLI-1E90FF?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Forensics
+<div>
+   <img src="https://img.shields.io/badge/-ExifTool-2F4F4F?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-FTK%20Imager-8B0000?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Autopsy%20Workbench-4B0082?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-CISSP-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-FECD1A?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Level%201-1E90FF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-2C3E50?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL-802F74?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-00758F?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-E52C20?&style=for-the-badge&logoColor=white" />
+
+
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
+- Digital Forensics Lab
+- Splunk SIEM Investigation
+- Incident Response Lab
