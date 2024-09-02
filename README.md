@@ -15,12 +15,11 @@ I'm seeking to leverage my hands-on experience with security tools and framework
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Phishing Analysis                             | <a href="https://google.com">Phishing Analysis Lab</a>|
+| Digital Forensics w/ FTK Imager / Volatility  | <a href="https://google.com">Forensic Investigation</a>|
+| Splunk SIEM Log Analysis                      | Splunk SIEM Investigation|
+| Incident Response Planning and Execution      | Incident Response Project|
+| Case Management with TheHive                  | TheHive Lab|
 
 ## Tools
 
