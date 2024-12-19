@@ -15,7 +15,7 @@ I'm seeking to leverage my hands-on experience with security tools and framework
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Analysis                             | <a href="https://google.com">Phishing Analysis Lab</a>|
+| AWS EC2 Deployment                            | <a href="https://google.com">EC2 Apache Server Deployment</a>|
 | Digital Forensics w/ FTK Imager / Volatility  | <a href="https://google.com">Forensic Investigation</a>|
 | Splunk SIEM Log Analysis                      | Splunk SIEM Investigation|
 | Incident Response Planning and Execution      | Incident Response Project|
