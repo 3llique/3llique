@@ -16,10 +16,8 @@ I'm seeking to leverage my hands-on experience with security tools and framework
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AWS EC2 Deployment                            | <a href="https://github.com/3llique/EC2-Project/blob/ebda43d0520639448d338f0e75537737c7a07915/README.md">EC2 Apache Server Deployment</a>|
-| Digital Forensics w/ FTK Imager / Volatility  | <a href="https://google.com">Forensic Investigation</a>|
-| Splunk SIEM Log Analysis                      | Splunk SIEM Investigation|
-| Incident Response Planning and Execution      | Incident Response Project|
-| Case Management with TheHive                  | TheHive Lab|
+| Python PII Redactor (Privacy)                 | <a href="https://github.com/3llique/Pii_Redactor/blob/main/PII_Redactor.py"> Python Privacy Engineer Project</a>|
+
 
 ## Tools
 
