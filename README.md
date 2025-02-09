@@ -4,11 +4,12 @@
 
 
 I'm an IT Professional with a Bachelor of Science in Information Technology!
+I am currently finishing my MBA: IT Management degree and will be attending University of Washington for my Cyber Risk Management Certificate in Winter of 2026!
 
 ## Objective
 
 
-I'm seeking to leverage my hands-on experience with security tools and frameworks to contribute effectively to a Security Operations Center (SOC) or a GRC team, ensuring robust threat detection, incident response, and regulatory compliance.
+I'm seeking to leverage my hands-on experience with security tools and frameworks to contribute effectively to a Security Operations Center (SOC), Privacy Engineering team, or GRC team to ensure robust threat detection, incident response, and regulatory compliance.
 
 ## Skills
 
@@ -16,7 +17,7 @@ I'm seeking to leverage my hands-on experience with security tools and framework
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AWS EC2 Deployment                            | <a href="https://github.com/3llique/EC2-Project/blob/ebda43d0520639448d338f0e75537737c7a07915/README.md">EC2 Apache Server Deployment</a>|
-| Python PII Redactor (Privacy)                 | <a href="https://github.com/3llique/Pii_Redactor/blob/main/PII_Redactor.py"> Python Privacy Engineer Project</a>|
+| Python PII Redactor (Privacy)                 | <a href="https://github.com/3llique/Pii_Redactor/blob/main/PII_Redactor.py"> Python (PII) Privacy Engineer Project</a>|
 
 
 ## Tools
@@ -70,7 +71,4 @@ I'm seeking to leverage my hands-on experience with security tools and framework
 
 ## Projects
 - EC2 Apache Server Deployment
-- SOC Automation Project
-- Digital Forensics Lab
-- Splunk SIEM Investigation
-- Incident Response Lab
+- Python (PII) Privacy Engineer Project
